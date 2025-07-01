@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentOrchestration", "ConcurrentOrchestration\ConcurrentOrchestration.csproj", "{714EA3F9-7E7C-499C-A899-21418FEFDE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialOrchestration", "SequentialOrchestration\SequentialOrchestration.csproj", "{F8B3EF4D-5F17-41E5-9664-6790B5BE0EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupChatOrchestration", "GroupChatOrchestration\GroupChatOrchestration.csproj", "{D8D3A691-B544-40D5-8AA9-B4824AE2ACF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandoffOrchestration", "HandoffOrchestration\HandoffOrchestration.csproj", "{66DA47F1-3451-44FF-86BC-F4A5E7C9EE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagneticOrchestration", "MagneticOrchestration\MagneticOrchestration.csproj", "{F474DD1F-3CD3-46A2-9FC9-B61EB54B2C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714EA3F9-7E7C-499C-A899-21418FEFDE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714EA3F9-7E7C-499C-A899-21418FEFDE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714EA3F9-7E7C-499C-A899-21418FEFDE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714EA3F9-7E7C-499C-A899-21418FEFDE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B3EF4D-5F17-41E5-9664-6790B5BE0EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B3EF4D-5F17-41E5-9664-6790B5BE0EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B3EF4D-5F17-41E5-9664-6790B5BE0EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B3EF4D-5F17-41E5-9664-6790B5BE0EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D3A691-B544-40D5-8AA9-B4824AE2ACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D3A691-B544-40D5-8AA9-B4824AE2ACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D3A691-B544-40D5-8AA9-B4824AE2ACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D3A691-B544-40D5-8AA9-B4824AE2ACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DA47F1-3451-44FF-86BC-F4A5E7C9EE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DA47F1-3451-44FF-86BC-F4A5E7C9EE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DA47F1-3451-44FF-86BC-F4A5E7C9EE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DA47F1-3451-44FF-86BC-F4A5E7C9EE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F474DD1F-3CD3-46A2-9FC9-B61EB54B2C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F474DD1F-3CD3-46A2-9FC9-B61EB54B2C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F474DD1F-3CD3-46A2-9FC9-B61EB54B2C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F474DD1F-3CD3-46A2-9FC9-B61EB54B2C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
